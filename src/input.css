@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+td {
+  border: 1px solid red;
+
+  padding: 0;
+}
+
+tr {
+  border: 1px solid blue;
+}
+
+.w-pc-email {
+  width: 600px;
+}
