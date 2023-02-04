@@ -2,16 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-td {
-  border: 1px solid red;
+/* Uncomment for test */
 
-  padding: 0;
+/* td,
+div,
+p {
+  border: 1px solid red;
 }
 
 tr {
   border: 1px solid blue;
-}
-
-.w-pc-email {
-  width: 600px;
-}
+} */
