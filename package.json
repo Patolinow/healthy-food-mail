@@ -4,7 +4,8 @@
   "description": "Um email marketing para a empresa fictícia \"healthy food\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css -w",
+    "mailwind": "mailwind --input-html ./dist/index.html --output-html ./email.html"
   },
   "repository": {
     "type": "git",
