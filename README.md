@@ -7,7 +7,7 @@
   <a href="https://github.com/Patolinow/healthy-food-mail/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Patolinow/healthy-food-mail/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/Patolinow/healthy-food-mail/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Patolinow/Healthy Food" />
   </a>
 </p>
