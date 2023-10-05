@@ -1,12 +1,6 @@
 <h1 align="center">Bem vindo ao Healthy Food 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Patolinow/healthy-food-mail#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/Patolinow/healthy-food-mail/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
   <a href="https://github.com/Patolinow/healthy-food-mail/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Patolinow/healthy-food-mail" />
   </a>
@@ -22,13 +16,13 @@
 npm install
 ```
 
-## Uso
+## Como rodar o projeto em sua máquina
 
 Utilizar o comando 
 ```sh
 npm run tailwind
 ```
-para iniciar as modificações no projeto
+para iniciar as modificações no projeto, após isso execute o arquivo `index.html` dentro da pasta `/dist`
 
 ## Autor
 
